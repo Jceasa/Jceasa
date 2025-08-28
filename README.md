@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Júlio César! 👋
 
-<!--
-**Jceasa/Jceasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por transformar desafios em soluções com código. Atualmente, estou focado em construir uma base sólida em Python e Lógica de Programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Atualmente Focado em:
+* **Linguagem:** Python
+* **Conceitos:** Lógica de Programação, Estrutura de Dados, Automação de Tarefas.
+* **Ferramentas:** VS Code, Git, GitHub.
+* **Explorando:** Como a Inteligência Artificial pode acelerar o aprendizado em tecnologia.
+
+---
+
+### 💻 Meus Primeiros Projetos:
+Aqui estão alguns dos projetos que estou construindo enquanto aprendo. Sinta-se à vontade para explorar!
+
+EM PROCESSO......
+
+---
+
+### 📫 Onde me encontrar:
+* **LinkedIn:** [https://www.linkedin.com/in/jc-ceasar/](https://www.linkedin.com/in/jc-ceasar/)
