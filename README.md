@@ -19,8 +19,8 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos. Sinta-se à von
 
 | Projeto                                    | Descrição                                                                                                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 🔢 **Jogo de Adivinhar o Número** | Uma aplicação simples em Python onde o usuário tenta adivinhar um número secreto gerado pelo computador.                   |
-| ❄️ **Calculadora de Carga Térmica** | Um script para auxiliar no cálculo da carga térmica de ambientes, um projeto prático para aplicar a lógica de programação. |
+| 🔢 [**Jogo de Adivinhar o Número**](https://github.com/Jceasa/jogo_adivinhar_n-mero) | Uma aplicação simples em Python onde o usuário tenta adivinhar um número secreto gerado pelo computador.                   |
+| ❄️ [**Calculadora de Carga Térmica**](https://github.com/Jceasa/lab_calculara_carga_t-rmica) | Um script para auxiliar no cálculo da carga térmica de ambientes, um projeto prático para aplicar a lógica de programação. |
 
 ---
 
