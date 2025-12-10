@@ -1,30 +1,36 @@
-# Olá, eu sou o Júlio César! 👋
+### Olá, eu sou o Júlio César! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por transformar desafios em soluções através do código. Minha jornada atual combina a construção de uma base sólida em **Python** com a exploração do **desenvolvimento web**.
+Sou um desenvolvedor focado em **Backend**. Meu objetivo é criar APIs eficientes, seguras e lógicas de negócio sólidas usando Python.
 
----
-
-### 🚀 **Tecnologias e Ferramentas**
-
-* **Back-End:** Python (Lógica de Programação, Estruturas de Dados, Automação).
-* **Front-End:** JavaScript, HTML5, CSS3.
-* **Ferramentas:** VS Code, Git, GitHub.
-* **Interesses:** Estou explorando como a Inteligência Artificial pode otimizar processos e acelerar o aprendizado em tecnologia.
+- 🔭 **Atualmente trabalhando em:** Migração de lógicas de negócio para **FastAPI**.
+- 🌱 **Estudando:** Python Avançado, Fast API e SQL.
+- 💡 **Filosofia:** Funcionalidade > Estética. Código limpo e versionamento semântico.
+- 🎯 **Foco:** Backend Development, APIs RESTful, Data Persistence.
 
 ---
 
-### 💻 **Projetos em Destaque**
+### 🛠️ Tech Stack
 
-Aqui estão alguns projetos que desenvolvi durante meus estudos. Sinta-se à vontade para explorar o código e deixar sua sugestão!
+**Core:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-database-blue?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-| Projeto                                    | Descrição                                                                                                                |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 🔢 [**Jogo de Adivinhar o Número**](https://github.com/Jceasa/jogo_adivinhar_n-mero) | Uma aplicação simples em Python onde o usuário tenta adivinhar um número secreto gerado pelo computador.                   |
-| ❄️ [**Calculadora de Carga Térmica**](https://github.com/Jceasa/lab_calculara_carga_t-rmica) | Um script para auxiliar no cálculo da carga térmica de ambientes, um projeto prático para aplicar a lógica de programação. |
+**Tools & Base:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 Projetos Recentes
+
+* **[Candy Shop MVP](https://github.com/Jceasa/CandyShop):** Sistema de Ponto de Venda (PDV) com lógica de carrinho, histórico de vendas e exportação de dados (JSON) via Blob.
+* *(Em breve)* **Security Cam AI:** Script de reconhecimento facial para segurança residencial usando OpenCV.
 
 ---
 
 ### 📫 **Onde me encontrar**
 
 * **LinkedIn:** [Júlio César](https://www.linkedin.com/in/jc-ceasar/)
-* **Email:** (jc309681@gmail.com) ```
+* **Email:** jc309681@gmail.com
